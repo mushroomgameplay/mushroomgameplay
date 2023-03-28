@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🌱 I’m currently learning C, JS
 
 <!--
 **mushroomgameplay/mushroomgameplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songju7920&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songju7920&show_icons=true&theme=midnight-purple)
