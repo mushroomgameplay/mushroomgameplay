@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songju7920&show_icons=true&theme=midnight-purple)
-[![Solved.acohsongju7920](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac ohsongju7920](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohsongju7920)](https://solved.ac/ohsongju7920)
