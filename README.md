@@ -1,6 +1,6 @@
 ### 백엔드 공부하고 있는 오송주라고 합니다.
 ### 🌱 I’m currently learning C, JS
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#F7DF1E?style=flat&logo=로고&logoColor=로고색상"/></a>
+<img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
 
 <!--
 **mushroomgameplay/mushroomgameplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
