@@ -13,14 +13,19 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 
 ## 📚 stack 📚
+**전에 주로 썼어요**<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
 
-## :pencil2: learning :pencil2:
+**현재 주로 쓰고 있어요**<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+
+## :pencil2: learning :pencil2:
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
 
 <!--
 **mushroomgameplay/mushroomgameplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
