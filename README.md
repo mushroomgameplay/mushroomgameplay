@@ -1,6 +1,6 @@
 ### Hi there 👋
 사용자가 조금이라도 사용하기 더 편한 애플리캐이션을 개발하기 위해 고민하고 성장해나가는 오송주입니다.<br>
-
+자신이 작성하는 코드가 무엇인지. 자신이 만들고 있는게 무엇인지 아는 것이 제일 중요하다 생각합니다.<br>
 <div align=center>
 
 ## 📞 contect 📞
@@ -16,15 +16,15 @@
 **전에 주로 썼어요**<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-
-**현재 주로 쓰고 있어요**<br>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"><br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+
+**현재 주로 쓰고 있어요**<br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
 ## :pencil2: learning :pencil2:
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
 
 <!--
