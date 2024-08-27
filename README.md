@@ -1,6 +1,15 @@
 ### Hi there 👋
 사용자가 조금이라도 사용하기 더 편한 애플리캐이션을 개발하기 위해 고민하고 성장해나가는 오송주입니다.<br>
 자신이 작성하는 코드가 무엇인지. 자신이 만들고 있는게 무엇인지 아는 것이 제일 중요하다 생각합니다.<br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/songju7920"
+  width="600"
+  height="300"
+/>
+</a>
+
 <div align=center>
 
 ## 📞 contect 📞
